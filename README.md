@@ -83,6 +83,13 @@ Measures are organized into:
 
 ---
 
+## Note
+
+The original dataset is not publicly shared.
+A simulated/demo dataset was used for portfolio demonstration purposes.
+
+---
+
 # Insights Generated
 
 - Identified top-performing delivery zones
