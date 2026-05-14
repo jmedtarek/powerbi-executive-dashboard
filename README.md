@@ -1,5 +1,11 @@
 # Executive Food Delivery Dashboard
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
 ## Project Overview
 
 This project is an executive-level Power BI dashboard designed to monitor and analyze food delivery operations performance.
@@ -68,9 +74,6 @@ Measures are organized into:
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
 
 ## Data Model
 
