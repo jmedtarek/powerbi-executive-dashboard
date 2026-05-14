@@ -78,7 +78,7 @@ Measures are organized into:
 
 ## DAX Measures
 
-![Data DAX](Dax Measure.png)
+![Data DAX](Dax_Measure.png)
 
 
 ---
