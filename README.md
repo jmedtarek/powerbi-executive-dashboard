@@ -70,11 +70,11 @@ Measures are organized into:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard)
+![Dashboard](dashboard.png)
 
 ## Data Model
 
-![Data Model](model)
+![Data Model](model.png)
 
 ## DAX Measures
 
